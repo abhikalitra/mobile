@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dp">
+
+    <TextView android:id="@+id/kname"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:textStyle="bold"
+              android:textSize="22dp"
+              android:textColor="#FFFFFF"
+              android:layout_marginTop="5dp"
+              android:layout_marginBottom="5dp"
+              android:layout_alignParentTop="true"/>
+
+    <TextView android:id="@+id/freq"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:textStyle="bold"
+              android:textSize="16dp"
+              android:textColor="#FFFFFF"
+              android:layout_below="@+id/kname"/>
+
+    <TextView android:id="@+id/lastcall"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:textStyle="bold"
+              android:textSize="16dp"
+              android:textColor="#FFFFFF"
+              android:layout_alignParentRight="false"
+              android:layout_alignParentTop="false"
+              android:layout_below="@+id/freq"
+            />
+
+</RelativeLayout>

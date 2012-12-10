@@ -1,0 +1,3 @@
+Application name: 	SDN8
+Client ID: 	00000000440BCC68
+Client secret: 	46X0RiktuQvBiosensIsIIjGrI5eRHWB

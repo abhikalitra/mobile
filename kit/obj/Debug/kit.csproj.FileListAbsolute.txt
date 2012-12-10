@@ -1,0 +1,15 @@
+C:\workspace\mobile\kit\bin\Debug\kit.dll
+C:\workspace\mobile\kit\bin\Debug\kit.pdb
+C:\workspace\mobile\kit\bin\Debug\kit.dll.mdb
+C:\workspace\mobile\kit\bin\Debug\kit.kit.apk
+C:\workspace\mobile\kit\bin\Debug\kit.kit-Signed.apk
+C:\workspace\mobile\kit\obj\Debug\ResolveAssemblyReference.cache
+C:\workspace\mobile\kit\obj\Debug\kit.dll
+C:\workspace\mobile\kit\obj\Debug\kit.pdb
+C:\workspace\mobile\kit\obj\Debug\android\bin\kit.kit.apk
+C:\workspace\mobile\kit\obj\Debug\res\layout\main.axml
+C:\workspace\mobile\kit\obj\Debug\res\values\strings.xml
+C:\workspace\mobile\kit\obj\Debug\res\drawable\icon.png
+C:\workspace\mobile\kit\obj\Debug\res\layout\list_item.xml
+C:\workspace\mobile\kit\obj\Debug\R.cs.flag
+C:\workspace\mobile\kit\obj\Debug\uploadflags.txt
